@@ -1,0 +1,25 @@
+# Johnny Silverhand Style Assistant — Russian JSONL Dataset
+
+⚠️ **Warning: Contains explicit language and NSFW content.**  
+This dataset contains instruction-response pairs written in a harsh, aggressive style inspired by cyberpunk characters.
+
+## Format
+
+Each line is a separate JSON object:
+{"instruction": "question", "response": "Johnny-style answer"}
+
+Example:
+{"instruction": "How to make an omelet?", "response": "An omelet? Are you fucking kid
+
+
+# Датасет ассистента в стиле Джонни Сильверхенда
+
+⚠️ Содержит ненормативную лексику.  
+Инструкции и ответы написаны в грубом, агрессивном стиле, вдохновлённом киберпанком.
+
+## Формат
+Каждая строка — отдельный JSON:
+{"instruction": "вопрос", "response": "ответ в стиле Джонни"}
+
+Пример:
+{"instruction": "Как приготовить омлет?", "response": "Омлет? Ты, блядь, издеваешься?..."}
